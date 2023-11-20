@@ -28,7 +28,7 @@ You can enable the Python 3 interface with `pip`:
 
 You must be using Python 3.6.
 
-You may use macOS's Speech Synthesis API _OR_ [eSpeak](https://github.com/rhdunn/espeak).
+If you are not using macOS, you must install [eSpeak](https://github.com/rhdunn/espeak) - see [guide](https://github.com/espeak-ng/espeak-ng/blob/master/docs/guide.md#installation). If you are using eSpeak, set `g:use_espeak` to `1`
 
 
 ## Installation
